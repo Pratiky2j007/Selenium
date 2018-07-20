@@ -20,6 +20,8 @@ public class MainClass
 		obj1.Accelerate();
 		obj1.Brake();
 		obj1.Speed(2, 3);
+		
+		System.out.println("End");
 
 	}
 
